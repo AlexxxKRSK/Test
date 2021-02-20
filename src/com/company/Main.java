@@ -1,5 +1,6 @@
 package com.company;
 
+
 import javax.swing.*;
 import java.util.Scanner;
 import java.util.regex.Pattern;
@@ -21,5 +22,6 @@ public class Main {
             testCases--;
 //            BaseEntity
         }
+        String counter = "counter";
     }
 }
